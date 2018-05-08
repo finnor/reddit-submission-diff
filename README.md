@@ -1,0 +1,3 @@
+Requires
+    requests
+    python-dotenv
